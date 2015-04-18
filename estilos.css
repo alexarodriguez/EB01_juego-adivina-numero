@@ -1,0 +1,27 @@
+#rangoAdivina
+	{
+		border: 5px solid black;
+		background-color: red;
+		border-radius: 30px;
+		color: white;
+		font-size: 30px;
+		padding: 10px;
+		width: 70%;
+		box-shadow: 10px 10px 30px black;
+	}
+	#adivina, button
+	{
+		font-size: 30px;
+		width: 80%;
+		margin-top: 20px;
+		text-align: center; 
+	}
+	#intentos, #pistas
+	{
+		color: blue;
+		font-size: 40px;
+		margin-top: 20px;
+	}
+	#pistas{
+		border-color: 10px 5px 5px blue;
+	}
